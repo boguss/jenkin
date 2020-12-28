@@ -148,7 +148,7 @@ pipeline {
 
           post {
             success {
-              mail  to: 'frontalnh@gmail.com',
+              mail  to: 'boguss73@empal.com',
                     subject: "Deploy Success",
                     body: "Successfully deployed!"
                   
